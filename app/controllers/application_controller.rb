@@ -20,4 +20,6 @@ class ApplicationController < Sinatra::Base
     redirect to '/recipes'
   end
 
+  
+
 end #class
